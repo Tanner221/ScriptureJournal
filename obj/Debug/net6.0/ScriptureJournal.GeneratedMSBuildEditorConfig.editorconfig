@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ScriptureJournal
+build_property.RootNamespace = ScriptureJournal
+build_property.ProjectDir = /Users/tanner/Desktop/ScriptureJournal/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/tanner/Desktop/ScriptureJournal
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Entries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW50cmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Entries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW50cmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Entries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW50cmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Entries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW50cmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Entries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW50cmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tanner/Desktop/ScriptureJournal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j1r41f00rt

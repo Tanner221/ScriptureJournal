@@ -1,0 +1,62 @@
+﻿@page
+@model IndexModel
+@{
+  ViewData["Title"] = "Home page";
+}
+
+<h1 class="text-center">My Scripture Journal</h1>
+
+<div id="mainCarousel" class="carousel carousel-light slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true"
+      aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="~/images/study1.jpeg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="~/images/study2.jpeg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="~/images/study3.png" class="d-block w-100" alt="...">
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <blockquote class="blockquote d-inline-block">
+        <p><i>“Search the scriptures—search the revelations which we publish, and ask your Heavenly Father, in the name
+            of His Son Jesus Christ, to manifest the truth unto you, and if you do it with an eye single to His glory
+            nothing doubting, He will answer you by the power of His Holy Spirit. You will then know for yourselves and
+            not for another. You will not then be dependent on man for the knowledge of God; nor will there be any room
+            for speculation. No; for when men receive their instruction from Him that made them, they know how He will
+            save them”</i></p><p><b>-Joseph Smith Jr</b></p>
+      </blockquote>
+    </div>
+    <div class="col-md-6 ">
+      <blockquote class="blockquote d-inline-block">
+        <p><i>“I am grateful for emphasis on reading the scriptures. I hope that for you this will become something far
+            more enjoyable than a duty; that, rather, it will become a love affair with the word of God. I promise you
+            that as you read, your minds will be enlightened and your spirits will be lifted. At first it may seem
+            tedious, but that will change into a wondrous experience with thoughts and words of things
+            divine”</i></p><p><b>-Gordon B Hinckley</b></p>
+      </blockquote>
+    </div>
+  </div>
+
+
+</div>
